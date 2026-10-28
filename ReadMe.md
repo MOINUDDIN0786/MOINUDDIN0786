@@ -2,7 +2,9 @@
 
 # Hi, I'm MD Moinuddin 👋
 
-### DevOps Engineer · Kubernetes · AWS · Automation
+### Software Engineer · DevOps Engineer
+
+**Cloud · Kubernetes · AWS · Automation**
 
 *Building reliable, secure and automated cloud-native systems for large-scale government platforms serving **1M+ concurrent users**.*
 
@@ -15,12 +17,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a DevOps Engineer with nearly **3 years of experience** operating Kubernetes (EKS) and containerized microservices on AWS for high-traffic government platforms. I focus on automation, observability and security, so that systems stay fast, stable and easy to ship to.
+I'm a Software Engineer and DevOps Engineer with nearly **3 years of experience** building applications and operating Kubernetes (EKS) and containerized microservices on AWS for high-traffic government platforms. I work across development and operations, with a focus on automation, observability and security, so that systems stay fast, stable and easy to ship to.
 
 ## 🧭 Core Expertise
 
 | Area | What I Do |
 |------|-----------|
+| 💻 **Software Development** | Build and maintain applications and microservices using Java, Python, Angular and JavaScript |
 | ☸️ **Container Orchestration** | Run and maintain production Kubernetes (EKS) clusters with Helm and Kustomize |
 | ⚙️ **CI/CD & GitOps** | Design Jenkins, GitLab CI and GitHub Actions pipelines for fast, repeatable releases |
 | 🏗️ **Infrastructure as Code** | Automate provisioning and configuration with Terraform and Ansible |
@@ -53,6 +56,16 @@ I'm a DevOps Engineer with nearly **3 years of experience** operating Kubernetes
 
 ## 💻 Tech Stack
 
+**🧑‍💻 Languages & Frameworks**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
 **☁️ Cloud & Containers**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -61,11 +74,10 @@ I'm a DevOps Engineer with nearly **3 years of experience** operating Kubernetes
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=flat-square&logo=rancher&logoColor=white)
 
-**🏗️ Infrastructure as Code & Automation**
+**🏗️ Infrastructure as Code**
 
 ![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-1A1918?style=flat-square&logo=ansible&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 **⚙️ CI/CD & Version Control**
 
@@ -88,18 +100,12 @@ I'm a DevOps Engineer with nearly **3 years of experience** operating Kubernetes
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
-**🌐 Web Servers & Build Tools**
+**🌐 Web Servers, Build & API Tools**
 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D42029?style=flat-square&logo=apache&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-
-**🧑‍💻 Languages & Tools**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
@@ -120,7 +126,7 @@ I'm a DevOps Engineer with nearly **3 years of experience** operating Kubernetes
 
 ## 📫 Let's Connect
 
-I'm always open to conversations about DevOps, Kubernetes and cloud automation.
+I'm always open to conversations about software engineering, DevOps, Kubernetes and cloud automation.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/md-moinuddin62044)
 - 📧 [md.59.moinuddin@gmail.com](mailto:md.59.moinuddin@gmail.com)
