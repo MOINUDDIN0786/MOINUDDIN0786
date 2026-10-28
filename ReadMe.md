@@ -1,21 +1,58 @@
-# 💫 About Me:
-# Hi, I'm MD Moinuddin 👋<br><br>### Sofware Engineer | DevOps Engineer | Cloud, Kubernetes & Automation<br><br>I am a DevOps Engineer with nearly three years of experience operating Kubernetes (EKS) and containerized microservices on AWS for large-scale government platforms serving **1M+ concurrent users**. I focus on building reliable, secure and automated cloud-native systems.<br><br>## 🚀 What I Do<br><br>- ☸️ Run production Kubernetes clusters at a **99.8% uptime SLA**<br>- ⚙️ Build CI/CD pipelines that cut deployment time from **2 hours to 25 minutes**<br>- 📊 Build observability stacks that reduced MTTR from **45 to 12 minutes**<br>- 🏗️ Automate infrastructure with Terraform and Ansible, reducing manual configuration time by **70%**<br>- 🐳 Containerize legacy applications, lowering infrastructure costs by **35%**<br>- 🔐 Handle Linux administration, RBAC, security hardening and vulnerability patching<br><br>## 🏛️ Notable Projects<br><br>- **UPSC Digital Platform (NIC):** Kubernetes infrastructure and a GitOps workflow (Helm, Kustomize, Jenkins) supporting peak exam registration, plus PostgreSQL tuning and automated backups covering 10M+ records<br>- **E-Hospital Platform (NIC):** CI/CD for microservices (releases moved from bi-weekly to daily), Kafka-based data sync across 500+ hospital locations, and Elasticsearch query time cut from 8 s to 800 ms<br><br> 🎓 Education & Learning<br><br>- B.Tech in Computer Science & Engineering, Arya College of Engineering & Research Centre, Jaipur (CGPA 9.07/10)<br>- Docker and Kubernetes Fundamentals certified<br>- Currently preparing for AWS Solutions Architect – Associate and CKA<br><br>## 📫 Let's Connect<br><br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-moinuddin62044)<br>[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md.59.moinuddin@gmail.com)
+<div align="center">
 
+# Hi, I'm MD Moinuddin 👋
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:md.59.moinuddin@gmail.com) 
+**DevOps Engineer · Kubernetes · AWS · Automation**
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MOINUDDIN0786&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=MOINUDDIN0786&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MOINUDDIN0786&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Operating EKS and containerized microservices for large-scale government platforms serving **1M+ concurrent users**.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MOINUDDIN0786&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-moinuddin62044)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md.59.moinuddin@gmail.com)
 
----
-[![](https://komarev.com/ghpvc/?username=MOINUDDIN0786&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Impact
+
+- ☸️ Kubernetes clusters running at a **99.8% uptime SLA**
+- ⚙️ CI/CD deployment time cut from **2 hrs → 25 min**
+- 📊 Observability stack reduced MTTR from **45 → 12 min**
+- 🏗️ Terraform and Ansible automation saved **70%** of manual config time
+- 🐳 Legacy app containerization lowered infra cost by **35%**
+- 🔐 Linux administration, RBAC, security hardening and patching
+
+## 🏛️ Projects
+
+- **UPSC Digital Platform (NIC):** Kubernetes and GitOps (Helm, Kustomize, Jenkins) for peak exam registration. PostgreSQL tuning and automated backups for 10M+ records.
+- **E-Hospital Platform (NIC):** Microservices CI/CD (bi-weekly → daily releases), Kafka data sync across 500+ hospitals, Elasticsearch queries cut from 8 s → 800 ms.
+
+## 💻 Tech Stack
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-1A1918?style=flat-square&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=flat-square&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+
+## 🎓 Education & Learning
+
+- B.Tech CSE, Arya College of Engineering & Research Centre, Jaipur (CGPA **9.07/10**)
+- Certified: Docker and Kubernetes Fundamentals
+- Preparing for: AWS Solutions Architect – Associate, CKA
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.shion.dev/api?username=MOINUDDIN0786&theme=dark&hide_border=true&count_private=false)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=MOINUDDIN0786&theme=dark&hide_border=true&layout=compact)
+
+</div>
